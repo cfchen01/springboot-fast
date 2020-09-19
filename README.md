@@ -89,6 +89,6 @@ springboot-fast      管理后台
 
  **集群部署**
 - 集群部署，需要安装redis，并配置redis信息
-- 需要配置【renren.redis.open=true】，表示开启redis缓存
-- 需要配置【renren.cluster=true】，表示开启集群环境
+- 需要配置【fast.redis.open=true】，表示开启redis缓存
+- 需要配置【fast.cluster=true】，表示开启集群环境
 
